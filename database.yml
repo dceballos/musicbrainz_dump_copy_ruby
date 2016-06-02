@@ -1,0 +1,7 @@
+adapter: postgresql
+encoding: utf8
+database: cactus
+username: deploy
+host: localhost
+password: n3xtm0v3m3nt
+schema_search_path: musicbrainz
